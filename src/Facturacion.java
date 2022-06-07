@@ -4,8 +4,8 @@ public class Facturacion {
 
 	public static void main(String[] args) {
 		System.out.println("*************************************\n" 
-	                     + "******* Bienvenido ARGDIGIEDU *******\n"
-				         + "*************************************\n");
+	                           + "******* Bienvenido ARGDIGIEDU *******\n"
+				   + "*************************************\n");
 
 		Scanner teclado = new Scanner(System.in);
 
@@ -46,7 +46,7 @@ public class Facturacion {
 
 		} else {
 
-			System.out.println("Excedió la cantidad de caracteres para la factura. " + "Intente nuevamente");
+			System.out.println("ExcediÃ³ la cantidad de caracteres para la factura. " + "Intente nuevamente");
 
 		}
 	}
