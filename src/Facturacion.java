@@ -6,7 +6,7 @@ public class Facturacion {
 		
 		System.out.println("*************************************\n"
 		                 + "******* Bienvenido ARGDIGIEDU *******\n"
-				         + "*************************************\n");
+				 + "*************************************\n");
 
 		Scanner teclado = new Scanner(System.in);
 		
